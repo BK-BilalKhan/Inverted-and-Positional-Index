@@ -5,17 +5,17 @@ Inverted and Positional Index v1.0
 ![inverted and positional index-image01](https://cloud.githubusercontent.com/assets/26347107/24805360/e32b4cf8-1bca-11e7-8286-ef13fbc34a05.PNG)
 
 ## Input Format
-pray AND fast 
-gracious AND merciful
-most AND merciful AND worship 
-god AND chosen /2 AND abundantly /8
-god AND chosen /2 AND abundantly /4
-abundantly AND knowledge /2
-receive OR admonition
-rejected AND apostles /1
-bestowed AND favour 
-king OR ruler AND mankind NOT allah
-god AND judge AND mankind
+    pray AND fast 
+    gracious AND merciful
+    most AND merciful AND worship 
+    god AND chosen /2 AND abundantly /8
+    god AND chosen /2 AND abundantly /4
+    abundantly AND knowledge /2
+    receive OR admonition
+    rejected AND apostles /1
+    bestowed AND favour 
+    king OR ruler AND mankind NOT allah
+    god AND judge AND mankind
 
 ## Description of Inverted and Positional Index v1.0
 Everything is available on this project. I will explain it soon in details. Sorry about that.
